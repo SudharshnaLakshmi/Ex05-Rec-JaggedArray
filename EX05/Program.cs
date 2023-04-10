@@ -1,22 +1,4 @@
-# Ex05-Rec-JaggedArray
-## Aim:
-To write a C# program to create a sample CPU usage on a network with 4 nodes using a jagged array.
-
-## Algorithm:
-### Step1:
-Start the program.
-### Step2:
-Declare a Jagged Array for four element.
-### Step3:
-Initialize the elements.
-### Step4:
-Accessing the elements.
-### Step5:
-End the program.
-
-## Program:
-```
-using System;
+﻿using System;
 class Program
 {
     public static void Main(String[] args)
@@ -43,10 +25,3 @@ class Program
         }
     }
 }
-```
-
-## Output:
-![](1.png)
-
-## Result:
-Thus, the C# program to create a sample CPU usage on a network with 4 nodes using a jagged array is executed successfully.

@@ -1,0 +1,15 @@
+D:\C#\Ex05-Rec-JaggedArray\EX05\obj\Debug\net6.0\EX05.csproj.AssemblyReference.cache
+D:\C#\Ex05-Rec-JaggedArray\EX05\obj\Debug\net6.0\EX05.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Ex05-Rec-JaggedArray\EX05\obj\Debug\net6.0\EX05.AssemblyInfoInputs.cache
+D:\C#\Ex05-Rec-JaggedArray\EX05\obj\Debug\net6.0\EX05.AssemblyInfo.cs
+D:\C#\Ex05-Rec-JaggedArray\EX05\obj\Debug\net6.0\EX05.csproj.CoreCompileInputs.cache
+D:\C#\Ex05-Rec-JaggedArray\EX05\bin\Debug\net6.0\EX05.exe
+D:\C#\Ex05-Rec-JaggedArray\EX05\bin\Debug\net6.0\EX05.deps.json
+D:\C#\Ex05-Rec-JaggedArray\EX05\bin\Debug\net6.0\EX05.runtimeconfig.json
+D:\C#\Ex05-Rec-JaggedArray\EX05\bin\Debug\net6.0\EX05.dll
+D:\C#\Ex05-Rec-JaggedArray\EX05\bin\Debug\net6.0\EX05.pdb
+D:\C#\Ex05-Rec-JaggedArray\EX05\obj\Debug\net6.0\EX05.dll
+D:\C#\Ex05-Rec-JaggedArray\EX05\obj\Debug\net6.0\refint\EX05.dll
+D:\C#\Ex05-Rec-JaggedArray\EX05\obj\Debug\net6.0\EX05.pdb
+D:\C#\Ex05-Rec-JaggedArray\EX05\obj\Debug\net6.0\EX05.genruntimeconfig.cache
+D:\C#\Ex05-Rec-JaggedArray\EX05\obj\Debug\net6.0\ref\EX05.dll
